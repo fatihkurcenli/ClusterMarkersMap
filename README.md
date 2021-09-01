@@ -24,7 +24,7 @@ https://developers.google.com/maps/documentation/android-sdk/utility/marker-clus
 
 # License & Copyright
 
-© 2019 Fatih Kurçenli
+© 2021 Fatih Kurçenli
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements. See the NOTICE file distributed with this work for
